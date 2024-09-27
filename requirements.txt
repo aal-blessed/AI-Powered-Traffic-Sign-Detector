@@ -1,0 +1,9 @@
+﻿torch
+torchvision
+jupyter
+numpy
+pandas
+matplotlib
+opencv-python
+flask
+gunicorn
